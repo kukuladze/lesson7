@@ -1,0 +1,156 @@
+.headerbox {
+	background-image: url("../images/header.jpg");
+	height: 900px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+	position: relative;
+	z-index: 1;
+	display: flex;
+	justify-content: flex-start;
+}
+.color {
+	width: 100%;
+	height: 900px;
+	background-color: #0000FD;
+	opacity: 0.22;
+	position: absolute;
+	z-index: 2;
+}
+.logonav {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: absolute;
+	z-index: 3;
+}
+.logo {
+	margin-left: 67px;
+}
+.navuuul {
+	width: 345px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50.3px;
+	margin-right: 143px;
+}
+.navli {
+	color: #D9F0FF;
+	font-size: 18px;
+}
+.text1 {
+	font-size: 100px;
+	color: #FFFFFF;
+	text-align: center;
+}
+.textbox {
+	width: 1020px;
+	height: 150px;
+	margin: 249px auto 418px;
+	z-index: 3;
+
+}
+.section1box {
+	width: 100%;
+	height: 602px;
+	display: flex;
+}
+.leftbox {
+	width: 100%;
+	height: 602px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-content: space-around;
+	justify-content: flex-start;
+}
+.left-box-head {
+	font-size: 50px;
+	width: 468px;
+	height: 186px;
+}
+.botton {
+	width: 307px;
+	height: 72px;
+	color: #FFFFFF;
+	font-size: 14px;
+	background-color: #325DFF;
+	border-radius: 36px;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+}
+
+.section2head {
+	font-size: 35px;
+	text-align: center;
+}
+.section2text {
+	width: 620px;
+	margin: 0 auto;
+	text-align: center;
+	opacity: 0.65;
+}
+.conteiner {
+	width: 1164px;
+	height: 780px;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.conteinerbox {
+	width: 371px;
+	height: 374px;
+	background-color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.circle {
+	width: 88px;
+	height: 88px;
+	background-color: #325DFF;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+.boxhead {
+	font-size: 18px;
+	opacity: 0.8;
+	text-align: center;
+}
+.boxtext {
+	opacity: 0.65;
+	width: 190px;
+	margin: 0 auto;
+	text-align: center;
+}
+.rightbox {
+	background-image: url("../images/Rectangle 2.png");
+	height: 602px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+}
+.text2 {
+	width: 457px;
+	height: 128px;
+	font-size: 16px;
+	opacity: 0.5;
+}
+.section2conteiner {
+	width: 100%;
+	height: 965px;
+	margin: 0 auto;
+	background-color: #FAFAFA;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+}
